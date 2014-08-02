@@ -11,7 +11,7 @@ Clone this project to a local working copy.
 
 Ensure the pre-requisities for the [Alfresco Validation Tool](https://github.com/AlfrescoLabs/technical-validation)
 are met - in particulary, carefully review the [Dependencies](https://github.com/AlfrescoLabs/technical-validation#dependencies)
-and [Installation](https://github.com/AlfrescoLabs/technical-validation#installation) sections.
+and [Configuration](https://github.com/AlfrescoLabs/technical-validation#configuration) sections.
 
 Then:
 

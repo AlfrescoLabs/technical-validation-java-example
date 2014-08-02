@@ -1,6 +1,11 @@
 # technical-validation-java-example
 
-An example Java program that shows how to call the technical-validation tool programmatically.
+An example Java program that shows how to call the [Alfresco Validation Tool](https://github.com/AlfrescoLabs/technical-validation)
+programmatically.
+
+## Installation
+
+Clone this project to a local working copy.
 
 ## Configuration
 

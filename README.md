@@ -17,8 +17,9 @@ or required in the programmatically accessible version of the tool (code statist
 Then:
 
 1. Copy ```go.sh.sample``` to ```go.sh```
-2. Open ```go.sh``` in your favourite text editor
-3. Modify the tunables at the top - note: _at least_ ```${EXTENSION_DIR}``` must be set
+2. Ensure ```go.sh``` is executable
+3. Open ```go.sh``` in your favourite text editor
+4. Modify the tunables at the top - note: _at least_ ```${EXTENSION_DIR}``` must be set
 
 ## Running
 Ensure you have an extension, including both source _and_ binaries, saved in the directory you specified in step 3 above.

@@ -11,7 +11,8 @@ Clone this project to a local working copy.
 
 Ensure the pre-requisities for the [Alfresco Validation Tool](https://github.com/AlfrescoLabs/technical-validation)
 are met - in particulary, carefully review the [Dependencies](https://github.com/AlfrescoLabs/technical-validation#dependencies)
-and [Configuration](https://github.com/AlfrescoLabs/technical-validation#configuration) sections.
+and [Configuration](https://github.com/AlfrescoLabs/technical-validation#configuration) sections.  Note that ohcount is not used
+or required in the programmatically accessible version of the tool.
 
 Then:
 

@@ -14,6 +14,7 @@ are met - in particulary, carefully review the [Dependencies](https://github.com
 and [Installation](https://github.com/AlfrescoLabs/technical-validation#installation) sections.
 
 Then:
+
 1. Copy go.sh.sample to go.sh
 2. Open go.sh in your favourite text editor
 3. Modify the tunables at the top - note: _at least_ EXTENSION_DIR must be set

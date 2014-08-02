@@ -43,6 +43,7 @@ public class JavaExample
      */
     public static void main(String[] args)
     {
+        // Normally we'd dependency inject the implementation, but for this simple example we'll just hardcode the dependency.
         AlfrescoTechnicalValidation atv               = new AlfrescoTechnicalValidationImpl();
         List<Map<String,Object>>    validationResults = atv.validate(args[0], args[1], args[2]);
         

@@ -23,7 +23,7 @@ Then:
 ## Running
 Ensure you have an extension, including both source _and_ binaries, saved in the directory you specified in step 3 above.
 
-1. Run ```go.sh```.
+1. Run ```./go.sh```.
 2. Wait...
 3. Wait some more...
 

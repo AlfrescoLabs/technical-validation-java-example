@@ -24,9 +24,9 @@ Then:
 ## Running
 Ensure you have an extension, including both source _and_ binaries, saved in the directory you specified in step 3 above.
 
-1. Run ```./go.sh```.
+1. Run ```./go.sh```
 2. Wait...
 3. Wait some more...
 
-Eventually you should see a large JSON result (the example dumps the raw validation results to JSON, though other code can
-do whatever it wants with the data the ATV returns).
+Eventually, you should see a large JSON result - the example dumps the raw validation results to JSON, though other code can
+do whatever it wants with the data structure the ATV returns.

@@ -10,7 +10,7 @@
 alias meh=mvn
 
 # Tunables
-NEO4J_DB_DIR=/usr/local/Cellar/neo4j/2.1.3/libexec/data/
+NEO4J_DB_DIR=/usr/local/Cellar/neo4j/2.1.5/libexec/data/
 NEO4J_URL=http://localhost:7474/db/data/
 EXTENSION_DIR=#### PATH TO AN EXTENSION TO TEST - IT SHOULD HAVE SUBDIRS "source" AND "binaries" ####
 
@@ -41,7 +41,7 @@ meh clean package
 rc=$?
 if [[ $rc != 0 ]] ; then
   exit $rc
-fi 
+fi
 
 # Truncate the Neo4J database
 neo4j stop > /dev/null
